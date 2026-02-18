@@ -8,7 +8,7 @@ In a world where litterature has changed a lot, it seemed interesting to see if 
 I use a dataset with 276 395 original works scrapped on AO3 by a group of CPES students in 2024. 
 Using this dataset, I will test the following predictions:
 
-### P1 - Works with a more complex summary are more likely to be read than others. 
+## P1 - Works with a more complex summary are more likely to be read than others. 
 
 ### P2 - Works with a more complex summary are more likely to have more likes than others. 
 
